@@ -1,0 +1,46 @@
+Folder PATH listing
+Volume serial number is DCE0-D21D
+C:.
+|   aruco.py
+|   camera_calibration.py
+|   logo.png
+|   main.py
+|   mainwindow.py
+|   mainwindow.ui
+|   Motor.jpg
+|   object_detection.py
+|   output.doc
+|   resource_rc.py
+|   secondary.py
+|   secondary.ui
+|   serial_port.py
+|   source.qrc
+|   tracker.py
+|   
++---.idea
+|   |   .gitignore
+|   |   misc.xml
+|   |   modules.xml
+|   |   Python.iml
+|   |   workspace.xml
+|   |   
+|   \---inspectionProfiles
+|           profiles_settings.xml
+|           
++---calibration
+|       dist.npy
+|       mtx.npy
+|       ret.npy
+|       rvec.npy
+|       tvec.npy
+|       
+\---__pycache__
+        aruco.cpython-37.pyc
+        dialog.cpython-37.pyc
+        mainwindow.cpython-37.pyc
+        object_detection.cpython-37.pyc
+        resource_rc.cpython-37.pyc
+        secondary.cpython-37.pyc
+        serial_port.cpython-37.pyc
+        tracker.cpython-37.pyc
+        
