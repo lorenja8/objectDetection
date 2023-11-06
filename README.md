@@ -10,16 +10,16 @@ The code operates with the following libraries:
 
 Below, individual files and their purpose will be described.
 
-## main.py
+### main.py
 
-## mainwindow.py
+### mainwindow.py
 
-## secondary.py
+### secondary.py
 
-## camera_calibration.py
+### camera_calibration.py
 
-## aruco.py
+### aruco.py
 
-## object_detection.py
+### object_detection.py
 
-## tracker.py
+### tracker.py
