@@ -701,7 +701,7 @@ class Application(Ui_MainWindow):
         self.wrist1_spinbox_2.setValue(0)
         self.wrist2_spinbox_2.setValue(0)
 
-    def move_to_target(self):         # moves the robot to the location a set position
+    def move_to_target(self):         # moves the effector to set coordinates
         x, y, z = self.target
         self.inversekinematics(x, y, z)
 
